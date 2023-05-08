@@ -13,6 +13,9 @@ The year the cooking club started
 
 https://www.kurashiru.com/recipes/e3fd1786-3931-4324-81a6-1f1f5b02ed55 
 
+<img src="https://github.com/themoeway/cooking-club/blob/main/images/2023-04-1.jpg" width="50%" />
+<img src="https://github.com/themoeway/cooking-club/blob/main/images/2023-04-2.jpg" width="50%" />
+
 Winner: **Griffin**
 
 ## May
